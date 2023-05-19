@@ -189,7 +189,6 @@ main{
  /* About */
  
  .about{
-    border: 2px solid  #477452;
     display: flex;
     flex-direction: column;
     height: fit-content;
