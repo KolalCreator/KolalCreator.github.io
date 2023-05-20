@@ -224,7 +224,7 @@ main{
 .skillcard{
     margin: 10px;
     border: 2px solid #074144;
-    height: 250px;
+    height: 100px;
     width: 200px;
     flex-direction: column;
     padding: 10px;
@@ -244,7 +244,14 @@ main{
     border: var(--color2) solid 3px;
     margin: 5px 5px;
 }   
+.contactdiv{
+    margin-bottom: 30px;
+}
 
+.lineksm{
+    font-size: 40px;
+    
+}
 /* -------------------- FOOTER------------------- */
 footer{
     display: flex;
